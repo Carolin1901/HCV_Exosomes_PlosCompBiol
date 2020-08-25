@@ -1,3 +1,4 @@
 # HCV_Exosomes_PlosCompBiol
 
-The data set (Keum_HCV.xls) used for model calibration can be found in https://www.sciencedirect.com/science/article/pii/S0042682212004278?via%3Dihub
+The data set (Keum_HCV.xls) used for model calibration can be found in [Keum et al. ](https://www.sciencedirect.com/science/article/pii/S0042682212004278?via%3Dihub)
+Model fitting and profile likelihood analysis have been performed by using the [Data2Dynamics toolbox]( https://github.com/Data2Dynamics/d2d) for the MATLAB environment and hence, the structure of model folders follows that toolbox structure. Please see for more information the GitHub page and all references within ([Data2Dynamics GitHub](https://github.com/Data2Dynamics/d2d)).
