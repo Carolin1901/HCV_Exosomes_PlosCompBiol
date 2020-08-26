@@ -20,9 +20,10 @@ Plotting has been performed with R.
 
 ## References
 > [Zitzmann et al.](link) Our paper can be found here. 
-> [Keum et al. (2012)](https://www.sciencedirect.com/science/article/pii/S0042682212004278?via%3Dihub)
-> [Data2Dynamics toolbox]( https://academic.oup.com/bioinformatics/article/31/21/3558/195191)
-> PLE
+> [Keum et al. (2012)](https://www.sciencedirect.com/science/article/pii/S0042682212004278?via%3Dihub) Keum et al. 
+> [Data2Dynamics toolbox]( https://academic.oup.com/bioinformatics/article/31/21/3558/195191) Data2Dynamics 
+> PLE 
 > [eFast]( https://www.sciencedirect.com/science/article/abs/pii/S0022519308001896?via%3Dihub)
+
 
 
